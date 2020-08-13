@@ -12,5 +12,6 @@ package teste;
 public class excecao {
     public static void main(String[] args) {
         System.out.println("deu boa");
+        System.out.println("de novo");
     }
 }
